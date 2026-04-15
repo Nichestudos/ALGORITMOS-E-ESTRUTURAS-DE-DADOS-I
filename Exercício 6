@@ -1,0 +1,7 @@
+/*
+    a) o array é mais lento porque precisa deslocar todos os próximos elementos na memória.
+    
+    b)array, porque o array tem a capacidade de acessar qualquer elemento no mesmo tempo
+
+    c) sim, deleta o elemento e todos precisam ser deslocados para cobrir o apagado, é menos eficiente
+*/
